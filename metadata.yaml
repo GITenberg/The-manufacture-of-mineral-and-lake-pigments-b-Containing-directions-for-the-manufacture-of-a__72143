@@ -1,0 +1,42 @@
+_repo: The-manufacture-of-mineral-and-lake-pigments-b-Containing-directions-for-the-manufacture-of-a__72143
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wright, A. C. (Arthur Columbine)
+    alias: Wright, Arthur Columbine
+    birthdate: 1871
+    gutenberg_agent_id: '56560'
+    url: http://www.gutenberg.org/2009/agents/56560
+creator:
+  author:
+    agent_name: Bersch, Josef
+    alias: Bersch, Dr. Josef
+    birthdate: 1840
+    deathdate: 1907
+    gutenberg_agent_id: '56124'
+    url: http://www.gutenberg.org/2009/agents/56124
+description: ''
+gutenberg_issued: '2023-11-16'
+identifiers:
+  gutenberg: '72143'
+language: en
+pgterms:marc904: https://archive.org/details/manufactureofmin00bersrich/page/n9/mode/2up
+pgterms:marc905: 20210808213441bersch
+pgterms:marc906: '1901'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bScott, Greenwood & Co., $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dyes and dyeing'
+- !lcsh 'Pigments'
+- !lcc 'TP'
+- GITenberg
+title: 'The manufacture of mineral and lake pigments : $b Containing directions for
+  the manufacture of all artificial artists'' and painters'' colours, enamel colours,
+  soot and metallic pigments'
+url: http://www.gutenberg.org/ebooks/72143
