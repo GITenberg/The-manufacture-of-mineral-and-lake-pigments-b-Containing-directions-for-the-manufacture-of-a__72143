@@ -7,6 +7,9 @@ contributor:
     birthdate: 1871
     gutenberg_agent_id: '56560'
     url: http://www.gutenberg.org/2009/agents/56560
+covers:
+- cover_type: archival
+  image_path: 72143-h/images/cover.jpg
 creator:
   author:
     agent_name: Bersch, Josef
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '56124'
     url: http://www.gutenberg.org/2009/agents/56124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72143#The-manufacture-of-mineral-and-lake-pigments-b-Containing-directions-for-the-manufacture-of-a_
 gutenberg_issued: '2023-11-16'
 identifiers:
   gutenberg: '72143'
